@@ -1,0 +1,30 @@
+Target ,Target_Full_Name,Target_class,Uniprot_ID,ChEMBL_ID,PDB_ID,Organisms,N_Uniques,N_Actives,N_Inactives,Decoys
+5-HT6,5-hydroxytryptamine receptor 6,Serotonin receptor,P50406,CHEMBL3371,,Homo sapiens,5913,2966,170,11864
+5-HT4,5-hydroxytryptamine receptor 4,Serotonin receptor,Q13639,CHEMBL1875,,Homo sapiens,942,440,28,1760
+5-HT1A,5-hydroxytryptamine receptor 1A,Serotonin receptor,P08908,CHEMBL214,,Homo sapiens,7073,4008,278,16032
+AChE,Acetylcholinesterase enzyme,Hydrolase,P22303,CHEMBL220,4M0E,Homo sapiens,8940,2368,1610,9472
+BuChE,Butyrylcholinesterase enzyme,Hydrolase,P06276,CHEMBL1914,6EZ2,Homo sapiens,4711,1226,1065,4904
+BACE1,Beta-secretase 1 enzyme,Aspartic protease A1A subfamily,P56817,CHEMBL4822,4ivt,Homo sapiens,9728,5316,1301,21264
+B-amyloid,Beta amyloid A4 protein,Membrane receptor,P05067,CHEMBL2487,1IYT,Homo sapiens,4476,648,384,2592
+CDK-5,Cyclin-dependent kinase 5,CMGC protein kinase CDK5 subfamily,Q00535,CHEMBL4036,3O0G,Homo sapiens,2326,109,51,436
+QPCT,Glutaminy-peptide cyclotransferase,Aminoacyltransfera,Q16769,CHEMBL4508,3PBB,Homo sapiens,804,428,62,1712
+GSK-3B,Glycogen synthase kinase-3 beta enzyme,CMGC protein kinase GSK family,P49841,CHEMBL262,5F94,Homo sapiens,7760,1812,568,7248
+MAO-B,Monoamine Oxidase B enzyme,Oxidoreductase,P27338,CHEMBL2039,2V5Z,Homo sapiens,5707,1554,1421,6216
+NMDA,N-methyl-D-aspartate receptor,NMDA receptor,P35439,CHEMBL330,1PBQ,Rattus norvegicus,835,299,170,1196
+PDE10A,Phosphodiesterase 10A enzyme,Phosphodiesterase 10A enzyme,Q9Y233,CHEMBL4409,6MSA,Homo sapiens,4864,4087,156,16348
+PDE4A,Phosphodiesterase 4A enzyme,Phosphodiesterase 4A,P27815,CHEMBL254,,Homo sapiens,844,507,83,2028
+PDE9A,Phosphodiesterase 9A,Phosphodiesterase 9A,O76083,CHEMBL3535,,Homo sapiens,794,494,24,1976
+HSD11B1,11-beta-hydroxysteroid dehydrogenase 1,Oxidoreductase,P28845,CHEMBL4235,,Homo sapiens,3972,2843,209,11372
+PLA2G7,LDL-associated phospholipase A2,Hydrolase,Q13093,CHEMBL3514,,Homo sapiens,554,350,48,1400
+PTGES,Prostaglandin E synthase,Isomerase,O14684,CHEMBL5658,,Homo sapiens,1976,1048,202,4192
+CANP2,Calpain-2,Cysteine protease C2 family,P17655,CHEMBL2382,,Homo sapiens,171,134,8,536
+FXI,Coagulation factor XI,Serine protease S1A subfamily,P03951,CHEMBL2820,,Homo sapiens,1306,811,125,3244
+mGluR2,Metabotropic glutamate receptor 2,Metabotropic glutamate receptor,Q14416,CHEMBL5137,,Homo sapiens,1827,587,24,2348
+mGluR5,Metabotropic glutamate receptor 5,Metabotropic glutamate receptor,P41594,CHEMBL3227,,Homo sapiens,3719,778,85,3112
+PPARD,Peroxisome proliferator-activated receptor delta,Nuclear hormone receptor subfamily 1 group C member 2,Q03181,CHEMBL3979,,Homo sapiens,3602,715,206,2860
+MERTK,Proto-oncogene tyrosine-protein kinase MER,Tyrosine protein kinase Axl family,Q12866,CHEMBL5331,,Homo sapiens,1484,363,41,1452
+SNCA,Alpha-synuclein,Unclassified,P37840,CHEMBL6152,,Homo sapiens,10485,153,36,612
+MAPT,Micotubule-associated protein tau,Other cytosolic protein,P10636,CHEMBL1293224,,Homo sapiens,67076,112,3181,448
+RIPK1,Receptor-interacting serine/threonine-protein kinase 1,TKL protein kinase RIPK family,Q13546,CHEMBL5464,,Homo sapiens,808,308,28,1232
+TMEM97,Sigma intracellular receptor 2,Membrane receptor,Q5BJF2,CHEMBL4105907,,Homo sapiens,595,265,21,1060
+IKKB,Inhibitor of nuclear factor kappa-B kinase beta subunit,Other protein kinase group,O14920,CHEMBL1991,,Homo sapiens,3484,619,220,2476
